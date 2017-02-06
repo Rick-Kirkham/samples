@@ -1,0 +1,5 @@
+- name: Basic API call
+  description: Colors the selected text in red.
+  gist: >-
+    https://raw.githubusercontent.com/WrathOfZombies/samples/master/samples/word/basic/basic-api-call.yaml
+  group: Basic
